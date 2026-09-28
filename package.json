@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/scooprange",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scoop identifiers and range tokens for idempotent workflows.",
+  "bin": {
+    "scooprange": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/scooprange.git"
+  },
+  "homepage": "https://theworker02.github.io/scooprange/",
+  "keywords": [
+    "scoop",
+    "range",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
